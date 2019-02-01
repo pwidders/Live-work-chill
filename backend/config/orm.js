@@ -15,7 +15,7 @@ var orm = {
     },
 
     insertUser: function (burger, cb) {
-        var queryString = "INSERT INTO USER_INFO (burger_name) VALUES (?)";
+        var queryString = "INSERT INTO USER_INFO (first_name, last_name, work_zip, salary) VALUES (?)";
         connection.query(queryString, [burger], function (err, result) {
             if (err) {
                 throw err;
@@ -26,7 +26,7 @@ var orm = {
 
     getRentData: function (id, cb) {
         var queryString = "SELECT * FROM CURRENT_RENTS WHERE id = ?";
-
+//need to grab data from algo for suggested city
         connection.query(queryString, [id], function (err, result) {
             if (err) {
                 throw err;
@@ -35,3 +35,5 @@ var orm = {
         });
     }
 };
+
+export default orm

@@ -1,0 +1,678 @@
+NY,New York,2295,1bed
+CA,Los Angeles,2350,1bed
+IL,Chicago,1634.5,1bed
+TX,Houston,1265,1bed
+TX,San Antonio,945,1bed
+PA,Philadelphia,1550,1bed
+AZ,Phoenix,1027.5,1bed
+NV,Las Vegas,1001.5,1bed
+CA,San Diego,2029,1bed
+TX,Dallas,1345,1bed
+CA,San Jose,2497,1bed
+TX,Austin,1225,1bed
+FL,Jacksonville,1215,1bed
+CA,San Francisco,3411,1bed
+IN,Indianapolis,895,1bed
+NC,Charlotte,1330,1bed
+TX,Fort Worth,1350,1bed
+OH,Columbus,850,1bed
+AZ,Tucson,635,1bed
+KY,Louisville,850,1bed
+TX,El Paso,725,1bed
+FL,Orlando,1319,1bed
+CO,Denver,1579,1bed
+WA,Seattle,2035,1bed
+TN,Memphis,775,1bed
+MA,Boston,2300,1bed
+DC,Washington,2291,1bed
+TN,Nashville,1485,1bed
+OR,Portland,1565,1bed
+CA,Sacramento,1300,1bed
+MD,Baltimore,1399,1bed
+WI,Milwaukee,830,1bed
+CA,Fresno,765,1bed
+NE,Omaha,791,1bed
+NM,Albuquerque,764,1bed
+OK,Oklahoma City,750,1bed
+NC,Raleigh,1095,1bed
+AZ,Mesa,908,1bed
+GA,Atlanta,1620,1bed
+MO,Kansas City,966,1bed
+CA,Long Beach,1595,1bed
+CO,Colorado Springs,1186,1bed
+VA,Virginia Beach,1110,1bed
+FL,Miami,1992.5,1bed
+CA,Oakland,3000,1bed
+OK,Tulsa,565,1bed
+MN,Minneapolis,1495,1bed
+HI,Honolulu,1700,1bed
+LA,New Orleans,1250,1bed
+TX,Arlington,920,1bed
+LA,Baton Rouge,985,1bed
+FL,Tampa,1480,1bed
+CO,Aurora,1230,1bed
+CA,Riverside,1475,1bed
+CA,Bakersfield,725,1bed
+PA,Pittsburgh,1060,1bed
+OH,Cincinnati,795,1bed
+CA,Anaheim,2079,1bed
+CA,Santa Ana,1710,1bed
+SC,Columbia,885,1bed
+NY,Islip,1770,1bed
+GA,Marietta,999.5,1bed
+TX,Corpus Christi,950.5,1bed
+MO,Saint Louis,825,1bed
+KY,Lexington,807,1bed
+IN,Fort Wayne,525,1bed
+NC,Greensboro,745,1bed
+WA,Vancouver,1179,1bed
+MD,Silver Spring,1653.5,1bed
+OH,Toledo,495,1bed
+AK,Anchorage,900,1bed
+MN,Saint Paul,1180,1bed
+FL,Naples,1508,1bed
+NC,Durham,1285,1bed
+CA,Stockton,1050,1bed
+TX,Plano,1185,1bed
+NJ,Newark,1250,1bed
+NV,Henderson,1098.5,1bed
+NE,Lincoln,828,1bed
+CA,Modesto,1075,1bed
+AZ,Chandler,1103.5,1bed
+TX,Lubbock,650,1bed
+NJ,Jersey City,2375,1bed
+NY,Buffalo,900,1bed
+AL,Mobile,640,1bed
+FL,Hialeah,1200,1bed
+CA,San Bernardino,875,1bed
+CA,Chula Vista,1689,1bed
+FL,Saint Petersburg,1145,1bed
+FL,Pensacola,830,1bed
+GA,Lawrenceville,1073.5,1bed
+NC,Winston-Salem,662,1bed
+WI,Madison,1042.5,1bed
+VA,Norfolk,1185,1bed
+AZ,Glendale,910,1bed
+AZ,Scottsdale,1426,1bed
+NC,Fayetteville,646,1bed
+ID,Boise,990,1bed
+CA,Irvine,2080,1bed
+TX,Laredo,860,1bed
+FL,Sarasota,1428,1bed
+VA,Chesapeake,1137.5,1bed
+FL,Fort Myers,965,1bed
+TX,Garland,1160,1bed
+AZ,Gilbert,1123,1bed
+NV,North Las Vegas,995,1bed
+CA,Fremont,2277.5,1bed
+CA,Santa Clarita,1785,1bed
+TX,Irving,1278,1bed
+VA,Arlington,1995,1bed
+MO,Springfield,530,1bed
+AL,Birmingham,898,1bed
+CA,Santa Rosa,1800,1bed
+SC,Greenville,1000,1bed
+VA,Richmond,1095,1bed
+IA,Des Moines,945,1bed
+FL,Boca Raton,1716,1bed
+FL,Bradenton,1090,1bed
+VA,Woodbridge,1415,1bed
+NY,Rochester,775,1bed
+AL,Montgomery,610,1bed
+CA,Corona,1658,1bed
+CA,Oceanside,1650,1bed
+WA,Tacoma,1240,1bed
+FL,Gainesville,949.5,1bed
+NY,Yonkers,1750,1bed
+LA,Shreveport,575,1bed
+CA,Moreno Valley,1215,1bed
+OH,Akron,550,1bed
+IL,Aurora,1237,1bed
+NC,Wilmington,900,1bed
+CA,Huntington Beach,2095,1bed
+UT,Salt Lake City,1215,1bed
+CA,Salinas,1445,1bed
+TX,Amarillo,550,1bed
+AR,Little Rock,711,1bed
+CO,Fort Collins,1304.5,1bed
+CA,Hayward,1908.5,1bed
+IL,Rockford,530,1bed
+IN,Evansville,525,1bed
+KS,Overland Park,967,1bed
+CA,Garden Grove,1565,1bed
+TX,Grand Prairie,1055,1bed
+RI,Providence,1500,1bed
+FL,Fort Lauderdale,1620,1bed
+CA,Ontario,1633.5,1bed
+GA,Columbus,580,1bed
+SD,Sioux Falls,750,1bed
+SC,Charleston,1400,1bed
+AZ,Tempe,1061.5,1bed
+CA,Rancho Cucamonga,1667,1bed
+TX,Killeen,445,1bed
+VA,Fredericksburg,1243,1bed
+VA,Newport News,905,1bed
+VA,Roanoke,677.5,1bed
+CA,El Cajon,1342,1bed
+AZ,Peoria,1115,1bed
+IL,Naperville,1340,1bed
+VA,Fairfax,1688,1bed
+FL,Boynton Beach,1474,1bed
+KS,Topeka,550,1bed
+TX,McKinney,1089,1bed
+FL,Pembroke Pines,1384,1bed
+OK,Edmond,736,1bed
+OR,Salem,825,1bed
+TX,Spring,1160,1bed
+VA,Henrico,1145.5,1bed
+OH,Dayton,499,1bed
+CO,Lakewood,1440,1bed
+VA,Alexandria,1726,1bed
+TX,Tyler,875,1bed
+CA,Pomona,1473,1bed
+TX,Cypress,1084,1bed
+TX,Round Rock,1063,1bed
+MI,Ann Arbor,1199.5,1bed
+KS,Kansas City,802,1bed
+FL,Hollywood,1400,1bed
+CA,Sunnyvale,2405,1bed
+TX,Conroe,1086,1bed
+MI,Lansing,600,1bed
+NC,Cary,1108,1bed
+NJ,Paterson,1200,1bed
+AZ,Yuma,670,1bed
+MO,Columbia,520,1bed
+NY,Syracuse,800,1bed
+TX,Frisco,1350,1bed
+WA,Renton,1386.5,1bed
+CT,Bridgeport,1050,1bed
+DE,Newark,897,1bed
+TX,Mesquite,861,1bed
+LA,Metairie,795,1bed
+CA,Pasadena,2220,1bed
+CA,Torrance,1725,1bed
+FL,Clearwater,1086.5,1bed
+CA,Fullerton,1775,1bed
+CA,Orange,2088,1bed
+VA,Hampton,899,1bed
+WA,Bellevue,2064,1bed
+CA,Inglewood,1500,1bed
+UT,West Valley City,920,1bed
+FL,Miramar,1512,1bed
+CO,Thornton,1249,1bed
+TX,Abilene,573,1bed
+MT,Billings,675,1bed
+CA,Concord,1695,1bed
+IN,Bloomington,799,1bed
+CO,Boulder,1600,1bed
+OR,Beaverton,1207,1bed
+TX,Carrollton,1010,1bed
+FL,Coral Springs,1230,1bed
+CA,Thousand Oaks,2062,1bed
+CA,Roseville,1525,1bed
+CT,New Haven,1200,1bed
+CA,Simi Valley,1790,1bed
+TX,Waco,730,1bed
+CT,Stamford,2093,1bed
+TX,Denton,925,1bed
+PA,Allentown,950,1bed
+MD,Frederick,1167.5,1bed
+CT,Hartford,880,1bed
+CA,Murrieta,1429,1bed
+CA,Temecula,1564,1bed
+CA,Hemet,847.5,1bed
+IL,Springfield,575,1bed
+CA,Vallejo,1550,1bed
+CA,Santa Clara,2593,1bed
+NY,Amherst,1163,1bed
+IA,Cedar Rapids,525,1bed
+VA,Falls Church,1690,1bed
+OK,Norman,595,1bed
+CA,Berkeley,2525,1bed
+CO,Westminster,1400,1bed
+CA,Richmond,1900,1bed
+CA,Vista,1659.5,1bed
+CO,Arvada,1495,1bed
+VA,Charlottesville,1100,1bed
+GA,Macon,741,1bed
+AL,Tuscaloosa,700,1bed
+NC,Concord,1039,1bed
+WA,Bellingham,1095,1bed
+CA,Costa Mesa,2034.5,1bed
+OR,Bend,1395,1bed
+NH,Manchester,1240,1bed
+CA,Downey,1450,1bed
+CA,Ventura,1625,1bed
+SC,North Charleston,1045,1bed
+TX,Lewisville,1021.5,1bed
+CA,West Covina,1809,1bed
+FL,Delray Beach,1500,1bed
+MA,Lowell,1325,1bed
+CT,Waterbury,750,1bed
+CA,Carlsbad,2120,1bed
+MD,Laurel,1325,1bed
+MA,Cambridge,2486,1bed
+WA,Kent,1277,1bed
+ND,Fargo,655,1bed
+FL,Riverview,1107.5,1bed
+NC,Greenville,485,1bed
+VA,Manassas,1383.5,1bed
+OR,Hillsboro,1360,1bed
+TX,Richardson,1422,1bed
+PA,West Chester,1315,1bed
+IL,Peoria,675,1bed
+VA,Springfield,1580,1bed
+CA,Fairfield,1688,1bed
+IA,Davenport,625,1bed
+WA,Everett,1250.5,1bed
+FL,Pompano Beach,1290,1bed
+CA,San Leandro,1795,1bed
+CA,Burbank,1896.5,1bed
+NY,Albany,995,1bed
+CO,Grand Junction,695,1bed
+TN,Franklin,1310,1bed
+TX,Longview,618,1bed
+CA,San Mateo,2742,1bed
+CA,Daly City,2400,1bed
+TX,The Woodlands,1092,1bed
+FL,Davie,1551,1bed
+MD,Columbia,1550,1bed
+KS,Lawrence,625,1bed
+CA,Napa,2075,1bed
+VA,Lynchburg,597.5,1bed
+TX,League City,1002,1bed
+CA,Mission Viejo,1825,1bed
+PA,Erie,550,1bed
+UT,Sandy,1225,1bed
+DE,Wilmington,995,1bed
+WA,Federal Way,1175,1bed
+TX,Bryan,1050,1bed
+IL,Champaign,675,1bed
+MI,Dearborn,1210,1bed
+CA,Hawthorne,1395,1bed
+TN,Johnson City,595,1bed
+GA,Woodstock,1222,1bed
+MA,Brockton,1087.5,1bed
+CO,Highlands Ranch,1500,1bed
+MD,Annapolis,1615,1bed
+TX,New Braunfels,1045,1bed
+IN,Terre Haute,500,1bed
+VA,Ashburn,1538,1bed
+VA,Sterling,1516.5,1bed
+WA,Auburn,1272.5,1bed
+IN,Muncie,500,1bed
+TX,Allen,1078,1bed
+MI,Kalamazoo,695,1bed
+CA,Santa Monica,3000,1bed
+FL,Plantation,1425,1bed
+PA,Reading,630,1bed
+CO,Loveland,1271,1bed
+WY,Cheyenne,650,1bed
+AR,Fort Smith,425,1bed
+OK,Lawton,570,1bed
+GA,Roswell,1183,1bed
+UT,Orem,1107,1bed
+FL,Miami Beach,1742,1bed
+MA,Lynn,1450,1bed
+MO,Lees Summit,959,1bed
+GA,Newnan,972.5,1bed
+CA,San Marcos,1882,1bed
+VA,Herndon,1595,1bed
+IN,Carmel,984,1bed
+WA,Bothell,1540.5,1bed
+MA,Newton,1850,1bed
+CA,Santa Barbara,1995,1bed
+IN,Lafayette,724,1bed
+VA,Leesburg,1509,1bed
+GA,Duluth,1250,1bed
+CO,Parker,1385,1bed
+CA,Arden-Arcade,999,1bed
+NH,Nashua,1369,1bed
+VA,Suffolk,1099,1bed
+WA,Redmond,1946,1bed
+IL,Bloomington,595,1bed
+MD,Glen Burnie,1155,1bed
+TX,Pflugerville,1130.5,1bed
+MD,Bowie,1513.5,1bed
+CA,Walnut Creek,2602,1bed
+CA,Whittier,1350,1bed
+AR,Fayetteville,762.5,1bed
+MN,Bloomington,1139,1bed
+CO,Longmont,1437.5,1bed
+IA,Iowa City,750,1bed
+ND,Bismarck,750,1bed
+CA,Alhambra,1550,1bed
+NJ,Trenton,880,1bed
+MD,Germantown,1359.5,1bed
+WA,Lynnwood,1354,1bed
+CA,Tustin,1912.5,1bed
+MD,Ellicott City,1235,1bed
+WA,Spokane Valley,870.5,1bed
+CT,Danbury,1519,1bed
+CT,Norwalk,1757.5,1bed
+FL,Largo,980,1bed
+OR,Gresham,1144,1bed
+FL,Sanford,1162,1bed
+MA,Quincy,1856,1bed
+UT,Ogden,700,1bed
+GA,Johns Creek,1220,1bed
+WA,Kirkland,1743,1bed
+MD,Waldorf,1365,1bed
+MI,Farmington Hills,937,1bed
+FL,Town 'n' Country,1097,1bed
+TX,Tomball,994,1bed
+IL,Arlington Heights,1150,1bed
+SC,Mount Pleasant,1402,1bed
+CA,Upland,1425,1bed
+AL,Hoover,800,1bed
+IL,Schaumburg,1285,1bed
+PA,Lancaster,795,1bed
+MA,Lawrence,1457.5,1bed
+NC,Apex,1034,1bed
+MA,Somerville,2055,1bed
+TX,Richmond,998.5,1bed
+GA,Norcross,942,1bed
+GA,Smyrna,1154.5,1bed
+CA,San Ramon,1985,1bed
+FL,Deerfield Beach,1200,1bed
+CA,Newport Beach,2300,1bed
+IL,Evanston,1270,1bed
+NY,Schenectady,980,1bed
+AZ,Avondale,995,1bed
+WV,Huntington,550,1bed
+NY,Poughkeepsie,1000,1bed
+CA,Folsom,1515,1bed
+MN,Plymouth,1281,1bed
+PA,Bethlehem,999,1bed
+CA,Redlands,1424,1bed
+GA,Alpharetta,1367,1bed
+MO,Saint Charles,815,1bed
+CA,La Mesa,1654,1bed
+CA,Lake Forest,1790,1bed
+NY,New Rochelle,1750,1bed
+CT,New Britain,815,1bed
+CA,Pleasanton,2284,1bed
+AR,North Little Rock,733.5,1bed
+NC,Mooresville,948,1bed
+TX,San Marcos,970,1bed
+CA,Chino Hills,1787,1bed
+LA,Bossier City,900,1bed
+MT,Great Falls,650,1bed
+CO,Castle Rock,1460,1bed
+MD,Gaithersburg,1557,1bed
+RI,Pawtucket,875,1bed
+CA,San Rafael,2221.5,1bed
+FL,Lauderhill,1000,1bed
+VA,Glen Allen,1061.5,1bed
+SC,Fort Mill,1007,1bed
+CA,Redondo Beach,2195,1bed
+MA,Framingham,1569,1bed
+MD,Bethesda,2250.5,1bed
+CA,Union City,2282.5,1bed
+IA,Waterloo,475,1bed
+FL,Palm Beach Gardens,1500,1bed
+VA,Centreville,1518.5,1bed
+CA,Alameda,2200,1bed
+NJ,Union City,1395,1bed
+FL,Jupiter,1620,1bed
+CA,Palo Alto,2995,1bed
+NY,Mount Vernon,1575,1bed
+IA,Ames,795,1bed
+FL,Daytona Beach,800,1bed
+KS,Manhattan,650,1bed
+MN,Woodbury,1380,1bed
+ME,Portland,1350,1bed
+WA,Lakewood,1105,1bed
+OR,Corvallis,875,1bed
+NE,Bellevue,776,1bed
+MD,Rockville,1829,1bed
+MN,Eagan,1230,1bed
+VA,Vienna,1770,1bed
+IL,Palatine,1125,1bed
+OH,Lorain,512,1bed
+NJ,East Orange,1215,1bed
+TN,Hendersonville,999,1bed
+FL,Fountainbleau,1400,1bed
+CA,Laguna Niguel,2165,1bed
+MD,Towson,1339,1bed
+CT,West Hartford,1285,1bed
+VA,Reston,2015,1bed
+FL,Tamarac,1150,1bed
+NJ,North Bergen,2200,1bed
+MA,Waltham,1990,1bed
+MN,Eden Prairie,1259,1bed
+FL,North Miami,1272.5,1bed
+CA,San Clemente,1865,1bed
+CO,Broomfield,1495,1bed
+MA,Haverhill,1550,1bed
+MD,Dundalk,910,1bed
+MD,Pasadena,1350,1bed
+CT,Hamden,1200,1bed
+NC,Huntersville,1065,1bed
+MN,Burnsville,1127,1bed
+OH,West Chester,1057.5,1bed
+TX,Cedar Park,1123.5,1bed
+MA,Malden,1705,1bed
+UT,Taylorsville,874,1bed
+MT,Missoula,765,1bed
+NJ,Gloucester,1021,1bed
+VA,Annandale,1449,1bed
+MA,Brookline,2200,1bed
+WA,Edmonds,1335,1bed
+MI,Royal Oak,1000,1bed
+VA,Petersburg,919,1bed
+IA,West Des Moines,990,1bed
+IL,Wheaton,1250,1bed
+WA,Olympia,1132,1bed
+CT,Manchester,1095,1bed
+MA,Medford,1910,1bed
+NY,White Plains,2300,1bed
+NJ,Union,1768,1bed
+ND,Grand Forks,600,1bed
+NJ,Bayonne,1325,1bed
+SC,Goose Creek,1035,1bed
+NJ,Piscataway,1422,1bed
+CA,Fountain Valley,1790,1bed
+FL,Coconut Creek,1421,1bed
+FL,Altamonte Springs,1047.5,1bed
+NJ,New Brunswick,1901,1bed
+PA,Bensalem,1135,1bed
+FL,Margate,1200,1bed
+VA,McLean,2099.5,1bed
+WV,Charleston,600,1bed
+FL,The Hammocks,1325,1bed
+FL,Longwood,1230,1bed
+MD,Owings Mills,1265,1bed
+KS,Lenexa,815.5,1bed
+NJ,Hoboken,2400,1bed
+WA,Shoreline,1425,1bed
+CT,West Haven,1000,1bed
+WA,Puyallup,1214,1bed
+WV,Morgantown,600,1bed
+NJ,West New York,2066,1bed
+IL,Oak Park,1240,1bed
+MD,Catonsville,1080,1bed
+MA,Peabody,1792,1bed
+CT,Stratford,1400,1bed
+GA,Brookhaven,1383.5,1bed
+FL,Doral,1830,1bed
+OR,Tigard,1255,1bed
+MD,North Bethesda,1785.5,1bed
+IL,Urbana,655,1bed
+TX,Grapevine,1425,1bed
+MN,Edina,1555,1bed
+CA,Palm Springs,1325,1bed
+CA,Aliso Viejo,1896.5,1bed
+MA,Revere,2130,1bed
+CT,Milford,1585,1bed
+CA,Cerritos,2278,1bed
+CA,Dublin,2361.5,1bed
+TX,Galveston,850,1bed
+PA,Harrisburg,745,1bed
+MD,Fort Washington,1260,1bed
+CO,Littleton,1324.5,1bed
+TX,Rowlett,1159.5,1bed
+CT,Middletown,1065,1bed
+WI,Wauwatosa,1355,1bed
+NJ,Bloomfield,1437.5,1bed
+MN,Minnetonka,1445,1bed
+WA,Burien,1448,1bed
+GA,Dunwoody,1294,1bed
+CA,Campbell,2400,1bed
+OH,Lakewood,695,1bed
+NJ,East Brunswick,1972.5,1bed
+WA,Issaquah,1785,1bed
+OH,Cleveland Heights,625,1bed
+MA,Arlington,1695,1bed
+FL,Country Club,1300,1bed
+NJ,Hackensack,1658,1bed
+PA,York,650,1bed
+FL,Winter Springs,1214,1bed
+FL,Oakland Park,1175,1bed
+MD,Windsor Mill,960,1bed
+KY,Covington,712.5,1bed
+CA,Rancho Santa Margarita,1860,1bed
+IL,Carol Stream,994.5,1bed
+FL,Lake Mary,1171,1bed
+IL,Belleville,550,1bed
+CA,Menlo Park,2750,1bed
+VT,Burlington,1200,1bed
+CA,San Bruno,2530,1bed
+TX,The Colony,1030,1bed
+MA,Salem,1685,1bed
+CT,Norwich,900,1bed
+MA,Marlborough,1616,1bed
+NJ,Montclair,1600,1bed
+MA,Woburn,1645,1bed
+NY,Great Neck,2650,1bed
+FL,Hallandale,1450,1bed
+CA,Culver City,2195,1bed
+NY,Saratoga Springs,1290.5,1bed
+MA,Chelsea,1838,1bed
+TX,Hurst,798.5,1bed
+FL,Aventura,1700,1bed
+CO,Englewood,1391,1bed
+CO,Northglenn,1261.5,1bed
+VA,Franconia,1710,1bed
+MA,Braintree,2030,1bed
+AR,Bentonville,722,1bed
+MA,Beverly,1780,1bed
+IA,Cedar Falls,725,1bed
+FL,Lake Worth,1000,1bed
+CA,West Hollywood,2490,1bed
+FL,University,820,1bed
+MA,Andover,1925,1bed
+MD,Reisterstown,1000,1bed
+MD,Hagerstown,650,1bed
+CA,Beverly Hills,2595,1bed
+CA,Pleasant Hill,2000,1bed
+IL,Gurnee,1304,1bed
+MA,Randolph,1773,1bed
+TX,Leander,1090.5,1bed
+WA,Paine Field-Lake Stickney,1252.5,1bed
+MA,Watertown,2303,1bed
+CA,Foster City,2925.5,1bed
+UT,Cottonwood Heights,1058,1bed
+IL,Carbondale,550,1bed
+FL,Riviera Beach,1060,1bed
+TX,Farmers Branch,1478,1bed
+DE,Dover,908.5,1bed
+MD,Elkridge,1660,1bed
+NJ,Atlantic City,850,1bed
+FL,Winter Park,1182.5,1bed
+MD,Odenton,1592.5,1bed
+NJ,Neptune,1600,1bed
+MO,Rolla,425,1bed
+UT,Midvale,999,1bed
+CA,Burlingame,2719,1bed
+PA,Ross,859,1bed
+MD,Parkville,1015,1bed
+NY,Coram,1752.5,1bed
+CA,Monterey,1675,1bed
+OH,North Royalton,865,1bed
+NJ,Orange,1197.5,1bed
+MA,Needham,2719,1bed
+FL,Dania Beach,1150,1bed
+MD,College Park,1790,1bed
+NY,Port Chester,2059,1bed
+MA,Norwood,1786,1bed
+CA,Laguna Hills,1810,1bed
+NJ,Long Branch,1337.5,1bed
+MD,Beltsville,1410,1bed
+NY,Long Beach,1900,1bed
+MA,Stoughton,1701,1bed
+NJ,Englewood,2240,1bed
+PA,King of Prussia,1820,1bed
+IL,Lisle,1270,1bed
+MA,Melrose,2200,1bed
+PA,Lower Merion,1760,1bed
+CA,Dana Point,2150,1bed
+MD,Temple Hills,1115,1bed
+NC,Morrisville,1094,1bed
+CA,South Pasadena,1785,1bed
+MA,Burlington,1895,1bed
+VA,Groveton,1672.5,1bed
+FL,Temple Terrace,1157,1bed
+WA,Mercer Island,1739.5,1bed
+GA,Vinings,1300.5,1bed
+NY,Eastchester,2300,1bed
+PA,Lower Paxton,896.5,1bed
+WA,Silverdale,1400,1bed
+IL,Westmont,1107,1bed
+MD,Lexington Park,1132.5,1bed
+NJ,Plainsboro,1350,1bed
+FL,Westchase,1238,1bed
+OR,Wilsonville,1207,1bed
+OK,Bixby,1085,1bed
+NJ,Lyndhurst,2190,1bed
+FL,Ives Estates,1409,1bed
+MN,Golden Valley,1660,1bed
+GA,Decatur,1494,1bed
+PA,Hatfield,1199,1bed
+WA,Mill Creek,1692,1bed
+MD,Chevy Chase,1997,1bed
+MD,Hyattsville,1745,1bed
+CA,Laguna Beach,2375,1bed
+IA,Coralville,925,1bed
+FL,Jacksonville Beach,1391,1bed
+FL,Sunny Isles Beach,1790,1bed
+NJ,Maple Shade,1065,1bed
+NJ,Secaucus,2285,1bed
+NJ,Morristown,2482,1bed
+CA,Hermosa Beach,2487.5,1bed
+GA,North Druid Hills,1240,1bed
+FL,Ojus,1250,1bed
+PA,Exton,1480,1bed
+MO,Creve Coeur,961,1bed
+FL,Glenvar Heights,2027,1bed
+MD,Hanover,1643.5,1bed
+NY,Cohoes,1327,1bed
+TX,Prosper,1054,1bed
+FL,Maitland,1451,1bed
+CO,Greenwood Village,1495,1bed
+FL,Destin,1435,1bed
+TX,Addison,1263.5,1bed
+IL,Forest Park,1050,1bed
+NJ,Weehawken,2550,1bed
+PA,Wynnewood,1601,1bed
+GA,Druid Hills,1397.5,1bed
+CO,Lone Tree,1419,1bed
+FL,Key Biscayne,2375,1bed
+IL,Willowbrook,1285,1bed
+FL,Wilton Manors,1299,1bed
+NJ,Guttenberg,1875,1bed
+NJ,Edgewater,2511,1bed
+PA,Conshohocken,1523,1bed
+MO,Saint Robert,560,1bed
+MD,Largo,1420,1bed
+CA,Emeryville,2657,1bed
+VA,Huntington,1665,1bed
+CA,Marina del Rey,2931,1bed
+VA,Dumbarton,935,1bed
+GA,Chamblee,1438,1bed
+VA,Fort Belvoir,1875,1bed
+FL,North Bay Village,1752.5,1bed
+FL,Century Village,875,1bed
+FL,Surfside,1850,1bed
+FL,Bay Harbor Islands,1525,1bed
+FL,Bal Harbour,2650,1bed

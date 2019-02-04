@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 
 // using class allows us to manage state
-class LandingPage extends Component {
+class LoginPage extends Component {
     state = {
         
     }
@@ -11,9 +11,9 @@ class LandingPage extends Component {
 
     render () {
         return (
-            <p> LANDING GOES HERE</p>
+            <p> LOGIN GOES HERE</p>
         );
     }
 }
 
-export default LandingPage; 
+export default LoginPage; 

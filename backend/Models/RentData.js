@@ -2,11 +2,10 @@
 var orm = require("../config/orm.js");
 
 var rent = {
-    getRentData: function (burger, cb) {
-        orm.getRentData(burger, function (res) {
+    getAll: function (cb) {
+        orm.getAll(function (res) {
             cb(res);
         });
-    
     }
 };
 

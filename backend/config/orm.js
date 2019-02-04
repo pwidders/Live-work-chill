@@ -19,9 +19,27 @@ var orm = {
                 }
                 cb(result);
             });
-        }
+        },
+        getUserData: function (cb) {
+            var queryString = "select * from USER_DATA VALUES"
+            connection.query(queryString, function (err, result) {
+                if (err) {
+                    throw err;
+                }
+                cb(result);
+            });
+        },
+
+        // updateUserData: function (cb) {
+        //     var queryString = "select * from USER_DATA VALUES"
+        //     connection.query(queryString, function (err, result) {
+        //         if (err) {
+        //             throw err;
+        //         }
+        //         cb(result);
+        //     });
+        // }
+
     };
 
-
-
-    module.exports = orm;
+module.exports = orm;

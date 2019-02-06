@@ -1,0 +1,19 @@
+.register {
+   text-align: center;
+   font-size: 25px;
+}
+.form-group {
+    font-size:20px;
+    text-align: center;
+}
+.form-control {
+    width:50%;
+   margin-left:25%;
+
+}
+.btn-primary {
+    background-color: rgb(37, 12, 12);
+    font-size: 20px;
+
+
+}

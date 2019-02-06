@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import  "../Registration/Registration.css"
 // Axios allows users to send HTTP requests from the front-end of our application to a server
 import axios from 'axios';
 
@@ -89,7 +90,7 @@ class CreateUser extends Component {
         return (
             <div className= "container">
                 <div style= {{marginTop: 20}}>
-                    <h3>Please fill out this survey to get your local data results</h3>
+                    <h3 className="register">Please Register to Get Your Local Data Results</h3>
                     <form onSubmit={this.onSubmit}>
                         <div className="form-group">
                             <label>Name: </label>
@@ -140,7 +141,7 @@ class CreateUser extends Component {
                         <div className="form-group">
                             <input 
                                 type="submit"
-                                value="Create Todo"
+                                value="Submit"
                                 className="btn btn-primary"
                             />
                         </div>

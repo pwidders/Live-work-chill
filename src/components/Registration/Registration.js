@@ -8,6 +8,9 @@ class CreateUser extends Component {
         super(props);
 
         // This block of code is needed to grant access to the state for the following methods listed below
+        this.onChangeEmail = this.onChangeEmail.bind(this);
+        this.onChangePassword = this.onChangePassword.bind(this);
+        this.onChangeConfirmPassword = this.onChangeConfirmPassword.bind(this);
         this.onChangeName = this.onChangeName.bind(this);
         this.onChangeJobTitle = this.onChangeJobTitle.bind(this);
         this.onChangeZipCode = this.onChangeZipCode.bind(this);
@@ -16,6 +19,9 @@ class CreateUser extends Component {
         //this.onSubmit = this.onSubmit.bind(this);
 
         this.state = {
+            email:'',
+            password:'',
+            confirm_password:'',
             name: '',
             job_title: '',
             zip_code: '',
@@ -25,6 +31,22 @@ class CreateUser extends Component {
     }
 
     // Form handling functions
+    onChangeEmail(e) {
+        this.setState({
+            email: e.target.value
+        })
+    }
+    onChangePassword(e) {
+        this.setState({
+            password: e.target.value
+        })
+    }
+    onChangeConfirmPassword(e) {
+        this.setState({
+            confirm_password: e.target.value
+        })
+    }
+
     onChangeName(e) {
         this.setState({
             name: e.target.value
@@ -102,6 +124,34 @@ class CreateUser extends Component {
                             />
                         </div>
                         <div className="form-group">
+                            <label>Email: </label>
+                            <input 
+                                type="text" 
+                                className="form-control" 
+                                value={this.state.email} 
+                                onChange={this.onChangeEmail}
+                            />
+                        </div>
+                
+                        <div className="form-group">
+                            <label>Password: </label>
+                            <input 
+                                type="text" 
+                                className="form-control" 
+                                value={this.state.password} 
+                                onChange={this.onChangePassword}
+                            />
+                        </div>
+                        <div className="form-group">
+                            <label>Confirm Password: </label>
+                            <input 
+                                type="text" 
+                                className="form-control" 
+                                value={this.state.confirm_password} 
+                                onChange={this.onChangeConfirmPassword}
+                            />
+                        </div>
+                        <div className="form-group">
                             <label>Job title: </label>
                             <input 
                                 type="text" 
@@ -129,7 +179,7 @@ class CreateUser extends Component {
                             />
                         </div>
                         <div className="form-group">
-                            <label>Income: </label>
+                            <label> Yearly Income: </label>
                             <input 
                                 type="text" 
                                 className="form-control" 

@@ -13,11 +13,11 @@ class LandingPage extends Component {
                     <Route path="/register" component={RegistrationPage} />
                 </Router>
                 <div className="jumbotron">
-                        <h1 className="display-4">Live Work Chill</h1>
-                        <p className="lead">An app that helps you find a home</p>
-                        <p className="lead1"> that's worthy of your hard work</p>
+                        <h1 className="display-4">Live... Work... Chill...</h1>
+                        <p className="lead">An App That Helps You Find A Home</p>
+                        <p className="lead1"> That's Worthy Of Your Hard Work <i class="fa fa-laugh-wink"></i></p>
                         <div className="button">
-                        <button ><Link className="button1"  to="/register">Get Started</Link></button>
+                        <button ><Link className="button1"  to="/register">Get Started <i class="fa fa-angle-double-right"></i></Link></button>
                         </div>
     
                 </div>

@@ -8,6 +8,7 @@ import LoginPage from './components/Login/Login';
 import RegistrationPage from './components/Registration/Registration';
 import Results from './components/Results/Results';
 import Nav from "./components/Navbar/Nav";
+import Carousel from "./components/Carousel/Carousel";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route path="/login" component={LoginPage} />
         <Route path="/results" component={Results} />
         </Switch>
+        <Carousel/>
       </div>
     </Router>
   );

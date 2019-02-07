@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import  "../Registration/Registration.css"
 // Axios allows users to send HTTP requests from the front-end of our application to a server
 import axios from 'axios';
 
@@ -7,6 +8,9 @@ class CreateUser extends Component {
         super(props);
 
         // This block of code is needed to grant access to the state for the following methods listed below
+        this.onChangeEmail = this.onChangeEmail.bind(this);
+        this.onChangePassword = this.onChangePassword.bind(this);
+        this.onChangeConfirmPassword = this.onChangeConfirmPassword.bind(this);
         this.onChangeName = this.onChangeName.bind(this);
         this.onChangeJobTitle = this.onChangeJobTitle.bind(this);
         this.onChangeZipCode = this.onChangeZipCode.bind(this);
@@ -15,6 +19,9 @@ class CreateUser extends Component {
         this.onSubmit = this.onSubmit.bind(this);
 
         this.state = {
+            email:'',
+            password:'',
+            confirm_password:'',
             name: '',
             job_title: '',
             zip_code: '',
@@ -24,6 +31,22 @@ class CreateUser extends Component {
     }
 
     // Form handling functions
+    onChangeEmail(e) {
+        this.setState({
+            email: e.target.value
+        })
+    }
+    onChangePassword(e) {
+        this.setState({
+            password: e.target.value
+        })
+    }
+    onChangeConfirmPassword(e) {
+        this.setState({
+            confirm_password: e.target.value
+        })
+    }
+
     onChangeName(e) {
         this.setState({
             name: e.target.value
@@ -101,7 +124,7 @@ class CreateUser extends Component {
         return (
             <div className= "container">
                 <div style= {{marginTop: 20}}>
-                    <h3>Please fill out this survey to get your local data results</h3>
+                    <h3 className="register">Please Register to Get Your Local Data Results</h3>
                     <form onSubmit={this.onSubmit}>
                         <div className="form-group">
                             <label>Name: </label>
@@ -110,6 +133,34 @@ class CreateUser extends Component {
                                 className="form-control" 
                                 value={this.state.name} 
                                 onChange={this.onChangeName}
+                            />
+                        </div>
+                        <div className="form-group">
+                            <label>Email: </label>
+                            <input 
+                                type="text" 
+                                className="form-control" 
+                                value={this.state.email} 
+                                onChange={this.onChangeEmail}
+                            />
+                        </div>
+                
+                        <div className="form-group">
+                            <label>Password: </label>
+                            <input 
+                                type="text" 
+                                className="form-control" 
+                                value={this.state.password} 
+                                onChange={this.onChangePassword}
+                            />
+                        </div>
+                        <div className="form-group">
+                            <label>Confirm Password: </label>
+                            <input 
+                                type="text" 
+                                className="form-control" 
+                                value={this.state.confirm_password} 
+                                onChange={this.onChangeConfirmPassword}
                             />
                         </div>
                         <div className="form-group">
@@ -140,7 +191,9 @@ class CreateUser extends Component {
                             />
                         </div>
                         <div className="form-group">
+
                             <label>Annual Household Income: </label>
+
                             <input 
                                 type="text" 
                                 className="form-control" 
@@ -152,7 +205,9 @@ class CreateUser extends Component {
                         <div className="form-group">
                             <input 
                                 type="submit"
+
                                 value="See Data"
+
                                 className="btn btn-primary"
                             />
                         </div>

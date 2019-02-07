@@ -1,0 +1,46 @@
+.jumbotron {
+    background-image: url("https://images.pexels.com/photos/276514/pexels-photo-276514.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-position: 0%;
+    height: 800px;
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom:3px;
+   
+}
+.display-4 {
+   
+    color: white;
+    text-align: center;
+    font-size: 108px;
+}
+.lead {
+    color: white;
+    text-align: center;
+    font-size: 41px;
+    margin-top: 125px;
+    font-weight: 250;
+}
+.lead1 {
+    color: white;
+    text-align: center;
+    font-size: 41px;
+    font-weight: 259;
+   
+
+}
+.button {
+  margin-top:25px;
+  text-align: center;
+  
+ 
+}
+.button1 {
+    color:brown;
+    font-size:38px;
+    letter-spacing: 3px;
+
+}
+.logo {
+    background:white;
+}

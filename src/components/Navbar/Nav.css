@@ -1,0 +1,16 @@
+.bg-primary {
+    color: black;
+}
+.nav-link {
+    font-size: 22px;
+    color: white;
+   position: inherit;
+}
+.navBar {
+    background-color: #0e0203;
+    margin: 7px;
+}
+.navbar-collapse {
+    padding-left: 60%;
+
+}

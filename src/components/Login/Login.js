@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import  "../Login/Login.css"
 
 // Axios allows users to send HTTP requests from the front-end of our application to a server
 import axios from 'axios';
@@ -26,7 +27,7 @@ class Login extends Component {
     }
 
     onChangePassword(e) {
-        this.setState({
+        this.setState({  
             password: e.target.value
         })
     }
@@ -35,7 +36,7 @@ class Login extends Component {
         return (
             <div className= "container">
                 <div style= {{marginTop: 20}}>
-                    <h3>Please Fill out your login info</h3>
+                    <h3 className="login">Please Enter Login Info</h3>
                     <form onSubmit={this.onSubmit}>
                         <div className="form-group">
                             <label>E-mail: </label>
@@ -60,7 +61,7 @@ class Login extends Component {
                         <div className="form-group">
                             <input 
                                 type="submit"
-                                value="Create Todo"
+                                value="Log In"
                                 className="btn btn-primary"
                             />
                         </div>

@@ -16,7 +16,7 @@ class CreateUser extends Component {
         this.onChangeZipCode = this.onChangeZipCode.bind(this);
         this.onChangeCity = this.onChangeCity.bind(this);
         this.onChangeIncome = this.onChangeIncome.bind(this);
-        //this.onSubmit = this.onSubmit.bind(this);
+        this.onSubmit = this.onSubmit.bind(this);
 
         this.state = {
             email:'',
@@ -77,15 +77,27 @@ class CreateUser extends Component {
         })
     }
 
-    // // Form submit function
-    // onSubmit(e) {
-    //     e.preventDefault();
+    // Form submit function
+    onSubmit(e) {
+        e.preventDefault();
 
-    //     console.log(`Form submitted: `);
-    //     console.log(`Todo Description: ${this.state.todo_description}`);
-    //     console.log(`Todo Responsible: ${this.state.todo_responsible}`);
-    //     console.log(`Todo Priority: ${this.state.todo_priority}`);
-    //     console.log(`Todo Completed: ${this.state.todo_completed}`);
+        console.log(`Form submitted: `);
+        console.log(`Name: ${this.state.name}`);
+        console.log(`Job title: ${this.state.job_title}`);
+        console.log(`Zip code: ${this.state.zip_code}`);
+        console.log(`City: ${this.state.city}`);
+        console.log(`Annual Household Salary: ${this.state.income}`);
+
+        // Submit data to server
+        // create object that contains the values from the form
+        // const newTodo = {
+        //     todo_description: this.state.todo_description,
+        //     todo_responsible: this.state.todo_responsible,
+        //     todo_priority: this.state.todo_priority,
+        //     todo_completed: this.state.todo_completed
+        // }
+
+    }
 
     //     // Submit data to server
     //     // create object that contains the values from the form
@@ -179,7 +191,9 @@ class CreateUser extends Component {
                             />
                         </div>
                         <div className="form-group">
-                            <label> Yearly Income: </label>
+
+                            <label>Annual Household Income: </label>
+
                             <input 
                                 type="text" 
                                 className="form-control" 
@@ -191,7 +205,9 @@ class CreateUser extends Component {
                         <div className="form-group">
                             <input 
                                 type="submit"
-                                value="Submit"
+
+                                value="See Data"
+
                                 className="btn btn-primary"
                             />
                         </div>
